@@ -27,3 +27,6 @@ cerebro.adddata(data)
 cerebro.addstrategy(SimpleStrategy)
 cerebro.run()
 cerebro.plot()
+
+
+#for testing!
